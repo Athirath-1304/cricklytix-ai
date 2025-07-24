@@ -1,0 +1,9 @@
+openai==0.28
+pandas
+python-dotenv
+streamlit
+pytest 
+requests
+beautifulsoup4
+lxml
+schedule 
